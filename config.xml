@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+		xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id	    = "tw.mcu.shinjia.light"
+		versionCode = "1" 
+		version     = "0.1.0" >
+ 
+	<name>手機開燈</name>
+ 
+	<description>
+		手機開燈 手機開燈 手機開燈
+	</description>
+ 
+	<author href="" email="shinjia168@gmail.com">
+		Shinjia Chen
+	</author>
+	
+	<icon src="icon.png" />
+	
+	<!-- current version of PhoneGap -->
+	
+	<preference name='phonegap-version' value='cli-6.5.0' />
+	
+	<!-- 設定畫面固定為水平(landscape)、垂直(portrait) -->
+	<preference name="orientation" value="portrait" />
+
+	<!-- 加入其它plugin設定 -->
+	
+</widget>
